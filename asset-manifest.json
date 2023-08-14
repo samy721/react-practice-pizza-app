@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-practice-pizza-app/static/css/main.f7790c19.css",
+    "main.js": "/react-practice-pizza-app/static/js/main.0e200805.js",
+    "index.html": "/react-practice-pizza-app/index.html",
+    "main.f7790c19.css.map": "/react-practice-pizza-app/static/css/main.f7790c19.css.map",
+    "main.0e200805.js.map": "/react-practice-pizza-app/static/js/main.0e200805.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7790c19.css",
+    "static/js/main.0e200805.js"
+  ]
+}
